@@ -1,8 +1,8 @@
 # Discovery Workshop Agenda – Student Portal Modernization
 
-**Date**: [Choose a date]  
+**Date**: June 3, 2025  
 **Duration**: 90 minutes  
-**Facilitator**: [Your Name]  
+**Facilitator**: Malagheel  
 **Participants**: Students, Academic Advisors, IT Representative, Faculty Member
 
 ## Objective
